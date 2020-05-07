@@ -1,0 +1,11 @@
+[package]
+name = "tsplib95-rs"
+description = "A Rust crate for interacting with the tsplib 95 standard"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/pard68/tsplib95-rs"
+version = "0.1.0"
+authors = ["Ian S. Pringle <ipringle2@liberty.edu>"]
+edition = "2018"
+
+[dependencies]
